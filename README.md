@@ -9,7 +9,6 @@ A modern and responsive productivity web application built using HTML, CSS, and 
 * Manage personal wishlist items
 * Clean and responsive UI
 * Interactive task handling
-* Dark themed modern design
 
 ## Tech Stack
 
@@ -23,8 +22,7 @@ A modern and responsive productivity web application built using HTML, CSS, and 
 ![image url](https://github.com/ramyaambati06/Todo-Wishlist/blob/fd5555ab873115f48745a728f3f077252e17af13/homepage.png.jpeg)
 
 ### Task Management
-
-
+![image url](https://github.com/ramyaambati06/Todo-Wishlist/blob/37a908582fea42baad0db7cf21377df78bd6c034/search.jpeg.jpeg)
 ## How to Run
 
 1. Download or clone the repository
@@ -40,9 +38,6 @@ A modern and responsive productivity web application built using HTML, CSS, and 
 * Task categories
 * Deadline reminders
 
-## Project Purpose
-
-This project was developed to improve frontend development skills, DOM manipulation, and responsive web design concepts.
 
 ## Author
 
